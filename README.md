@@ -1,5 +1,5 @@
 # 1112決策支援與商業智慧 期末專案
-<img src='images/all.jpg'> 
+<img src='images/all_1.jpg'> 
 
 ## Titanic倖存預測與數據分析
 
